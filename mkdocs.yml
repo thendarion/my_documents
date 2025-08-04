@@ -1,1 +1,4 @@
 site_name: My Documents
+
+nav:
+  - Home: index.md
