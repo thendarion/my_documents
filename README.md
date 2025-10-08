@@ -1,6 +1,8 @@
 # My Documents by David Bertalan
 
-A list of my public projects that have something to do with writing or publishing. 
+A list of my public projects that have something to do with writing or publishing.
+
+> Note: redered by GitHub Pages.
 
 ## [DITA-OT/docs contributions](https://github.com/pulls?q=is%3Apr+author%3Athendarion+archived%3Afalse+repo%3Adita-ot%2Fdocs+)
 
