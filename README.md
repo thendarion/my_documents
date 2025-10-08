@@ -11,5 +11,3 @@ This project contains a custom DITA-OT plugin that enables writing CV and Cover 
 ## [TimberHUN translation mod](https://github.com/thendarion/timberborn-magyaritas)
 
 A big Hungarian translation mod for Timberborn. Way more effort than I would care to admit. Still worth it though.
-
-> Note: the content I created while working at the big companies is not publicly available.
