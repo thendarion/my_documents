@@ -2,7 +2,7 @@
 
 ## [DITA-OT/docs contributions](https://github.com/pulls?q=is%3Apr+author%3Athendarion+archived%3Afalse+repo%3Adita-ot%2Fdocs+)
 
-My pull requests in the DITA Open Toolkit Documentation projects. Ever growing.
+My ever growing list of contributions (pull requests) in the DITA Open Toolkit Documentation project.
 
 ## [DITA CV to PDF](https://github.com/thendarion/dita-cv-to-pdf) 
  
